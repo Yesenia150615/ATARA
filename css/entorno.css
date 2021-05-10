@@ -1,0 +1,76 @@
+* {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.body-fondo {
+    background-color: #F6F8FA !important;
+}
+
+.navbar-fondo {
+    background-color: #A51A45 !important;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #E6F2FF;
+    font-weight: 500;
+    color: #002752;
+    cursor: pointer;
+}
+
+.table-hover-danger tbody tr:hover td, .table-hover-danger tbody tr:hover th {
+    background-color: #F8D7DA;
+    font-weight: 500;
+    color: #491217;
+    cursor: pointer;
+}
+
+.table-hover-success tbody tr:hover td, .table-hover-success tbody tr:hover th {
+    background-color: #D4EDDA;
+    font-weight: 500;
+    color: #0B2E13;
+    cursor: pointer;
+}
+
+.table-hover-warning tbody tr:hover td, .table-hover-warning tbody tr:hover th {
+    background-color: #FFF3CD;
+    font-weight: 500;
+    color: #533F03;
+    cursor: pointer;
+}
+
+.table-hover-tercero tbody tr:hover td, .table-hover-tercero tbody tr:hover th {
+    background-color: #FFCCBC;
+    font-weight: 500;
+    color: #212121;
+    cursor: pointer;
+}
+
+.bg-tercero {
+    background-color: #F4511E;
+}
+
+a.active {
+    font-weight: bold;
+}
+#titulo{
+    text-align:center;
+}
+#imgAlumno{
+    width: 70%;  
+    height: 70%; 
+    display:block;
+    margin:auto;
+    margin-top: 10px;
+}
+#imagenPrevisualizacion{
+    border: 3px solid rgb(35, 100, 204);
+    width: 300px;
+
+    height:300px;
+    } 
+#fotocont{
+    margin: auto;
+    width: 300px;
+
+    height:300px;
+  }

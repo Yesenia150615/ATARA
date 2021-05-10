@@ -1,0 +1,148 @@
+.cuadro{
+
+width: 482px;
+height: 426px;
+left: 719px;
+top: 218px;
+
+background: #FFFFFF;
+border: 1px solid #E6E6E6;
+box-sizing: border-box;
+border-radius: 5px;
+margin-left: 410px;
+margin-top: 50px;
+}
+.title{
+	width: 281px;
+height: 36px;
+left: 796px;
+top: 248px;
+
+}
+.titul{
+margin-left: 130px;
+width: 234px;
+height: 36px;
+left: 843px;
+top: 248px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+margin-top: -30px;
+}
+.from{
+	position: absolute;
+width: 328px;
+height: 150px;
+left: 796px;
+top: 324px;
+}
+.letra{
+	position: absolute;
+width: 51px;
+height: 20px;
+left: 796px;
+top: 324px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: rgba(51, 51, 51, 0.9);
+}
+.rectan{
+position: absolute;
+width: 328px;
+height: 25px;
+left: 796px;
+top: 344px;
+
+background: rgba(207, 212, 221, 0.25);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.form-check{
+	font-family: Nunito;
+}
+.d-grid{
+	width: 328px;
+height: 30px;
+left: 796px;
+top: 519px;
+}
+
+
+.logo
+{
+
+	width: 36px;
+height: 36px;
+left: 796px;
+top: 248px;
+margin-left: 70px;
+margin-top: 35px;
+}
+
+/*       */
+
+#exampleInputEmail1, #exampleInputPassword1{
+
+width: 328px;
+height: 25px;
+left: 796px;
+top: 344px;
+
+background: rgba(207, 212, 221, 0.25);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 5px;
+font-family: Nunito;
+
+}
+.btn
+{
+ 	margin-left: 70px;
+	width: 328px;
+height: 30px;
+left: 796px;
+top: 519px;
+font-family: Nunito;
+
+}
+ .form-label1{
+ 	margin-left: 480px;
+ 	margin-top: -140px;
+ 	font-family: Nunito;
+ }
+ .form-label2{
+ 	margin-left:  480px;
+ 	margin-top: -75px;
+ 	font-family: Nunito;
+ }
+
+ .mb-3{
+ 	 	margin-left: 70px;
+ }
+ #exampleCheck1{
+	margin-left: 70px;
+	margin-top: -50px;
+ }
+
+ #check{
+ 	margin-left:  500px;
+ 	margin-top: 0px;
+ }
+ .olvide{
+ 	font-family: Nunito;
+ 		margin-left: 70px;
+ }
